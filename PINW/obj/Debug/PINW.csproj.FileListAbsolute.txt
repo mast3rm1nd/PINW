@@ -1,0 +1,5 @@
+E:\Dropbox\!Coding\All_in_one\PINW\PINW\bin\Debug\PINW.exe
+E:\Dropbox\!Coding\All_in_one\PINW\PINW\bin\Debug\PINW.pdb
+E:\Dropbox\!Coding\All_in_one\PINW\PINW\obj\Debug\PINW.exe
+E:\Dropbox\!Coding\All_in_one\PINW\PINW\obj\Debug\PINW.pdb
+E:\Dropbox\!Coding\All_in_one\PINW\PINW\obj\Debug\PINW.csprojResolveAssemblyReference.cache
